@@ -157,7 +157,7 @@ Installation: bash [commands]
 Run: bash [commands] 
 
 Project Documentation
-Screenshots: [Add 3 placeholders with captions]
+Screenshots: ![alt text](<MAIN PAGE-1.png>),![alt text](<SECOND PAGE-1.png>),![alt text](3-1.png)
 
 Diagrams:
 
