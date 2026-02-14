@@ -1,16 +1,164 @@
-# React + Vite
+GET REAL 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A gentle but brutally honest career reality check.
 
-Currently, two official plugins are available:
+Basic Details
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Name: Get Real
+Team Name: Rose
 
-## React Compiler
+Team Members
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Fathima Hana – MAMO College Mukkam
 
-## Expanding the ESLint configuration
+Ajna Rose – MAMO College Mukkam
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Hosted Project Link
+
+🔗 https://get-real-jade.vercel.app/
+
+Project Description
+
+Get Real is a Gen-Z friendly career reality-check website that helps users reflect honestly on their career choices.
+Instead of generic motivation, it provides warm, slightly sassy, and realistic feedback based on a user’s education, interests, or career goals.
+
+The Problem Statement
+
+Students are pressured to choose careers without clarity or realistic guidance.
+Most platforms either glorify success or give generic advice, which leads to confusion, anxiety, and unrealistic expectations.
+
+The Solution
+
+Get Real creates a judgment-free space where users can input their educational background and career thoughts.
+The platform responds with honest, human-like insights and suggests realistic career paths using gentle humour and clarity.
+
+Technical Details
+Technologies / Components Used
+For Software:
+
+Languages used: HTML, CSS, JavaScript
+
+Frameworks used: React (Vite)
+
+Libraries used: None (kept lightweight)
+
+Tools used: VS Code, Git, GitHub
+
+For Hardware:
+
+Not applicable (software-only project)
+
+Features
+
+Warm onboarding with handwritten welcome screen
+
+Education-first user flow
+
+Two input paths:
+
+Career already in mind
+
+Unsure / interest-based exploration
+
+Sassy yet respectful responses for unrealistic goals
+
+Overall analysis page with best-suited career options
+
+Action buttons:
+
+Print results
+
+Save results
+
+Share link
+
+Start over
+
+Implementation
+For Software
+Installation
+npm install
+
+Run
+npm run dev
+
+Project Documentation
+Screenshots (Add your screenshots below)
+
+Screenshot 1 – Landing Page
+
+
+Shows the handwritten “hello. welcome to get real.” introduction screen.
+
+Screenshot 2 – Career Input Page
+
+
+Displays options for entering a career goal or interests/hobbies.
+
+Screenshot 3 – Analysis Page
+
+
+Shows the final reality check, career suggestions, and action buttons.
+
+You can add more screenshots by duplicating the format above.
+
+Diagrams
+System Architecture
+
+Frontend-only web application built with React.
+All logic runs on the client side, handling user input, response generation, and analysis display without a backend.
+
+Application Workflow
+
+Welcome screen
+
+Educational qualification input
+
+Career goal or interest input
+
+Honest response generation
+
+Overall analysis and actions
+
+Additional Documentation
+AI Tools Used (Optional – Transparency Bonus)
+
+Tool Used: ChatGPT
+
+Purpose:
+
+UX copy refinement
+
+Tone calibration (sassy but gentle)
+
+Documentation structuring
+
+Approximate AI contribution: 30%
+
+Human contribution:
+
+Idea and concept
+
+UX flow design
+
+Logic planning
+
+Final implementation and testing
+
+Team Contributions
+
+Fathima Hana: UI/UX design, frontend development, content flow
+
+Ajna Rose: Idea development, response logic, documentation
+
+License
+
+This project is licensed under the MIT License.
+
+Project Demo
+
+🎥 Demo Video: [Add demo link here]
+
+Demonstrates the full flow from welcome screen to final analysis
+
+Made with ❤️ by Team Rose
